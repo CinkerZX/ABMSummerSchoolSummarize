@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Applications}{7}{0}{1}
+\beamer@sectionintoc {2}{Research Paradigm}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Explanation examples}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Prediction examples}{16}{0}{2}
+\beamer@subsectionintoc {2}{3}{Summary}{17}{0}{2}
+\beamer@sectionintoc {3}{Principles of model design}{19}{0}{3}
